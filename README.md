@@ -1,6 +1,7 @@
 # Python_assignment2
 
-# Installing
+# Installation
+
 Make sure that you have installed beautifulsoup4 and requests libraries
 ```
 pip install beautifulsoup4
@@ -17,3 +18,6 @@ from bs4 import BeautifulSoup
 bs = BeautifulSoup()
 ```
 
+## Examples
+First you enter the name of crypto currency, after it outputs all info from 
+https://coinmarketcap.com/coins/
